@@ -15,7 +15,7 @@
 ---
 
 1. Wappalyzer
-2.  Shodan/Censys/ZoomEye
+2. Shodan/Censys/ZoomEye
 3. Maltego
 4. FOCA
 5. DIG
