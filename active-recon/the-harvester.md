@@ -4,3 +4,5 @@ This is a tool written in Python that allows us to gather email addresses, subdo
 
  However, what does this tool reveal about your company? What kind of information is your company broadcasting to the entire Internet?
 
+
+More information can be found on the tools GitHub page here: https://github.com/laramies/theHarvester

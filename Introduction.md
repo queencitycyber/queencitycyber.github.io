@@ -22,7 +22,7 @@
 
 4. Financial reports eg. EDGAR \(Electronic Data Gathering, Analysis, and Retrieval System\); specifically the 10-K Annual
 
-5. Google Searching
+5. Google Searching (sometimes referred to as Google Dorking), Shodan, Censys
 
 
 

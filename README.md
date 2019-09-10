@@ -18,9 +18,8 @@
 * [Active Recon](active-recon.md)
   * [Nmap](active-recon/nmap.md)
   * [SMTP Bouncing](active-recon/smtp-bouncing.md)
-  * [DNSENUM](active-recon/dnsenum.md)
+  * [DNSRECON](active-recon/dnsrecon.md)
   * [The Harvester ](active-recon/the-harvester.md)
-  * [Metagoofil](active-recon/metagoofil.md)
   * [Fierce](active-recon/fierce.md)
   * [Summary](active-recon/summary.md)
 
