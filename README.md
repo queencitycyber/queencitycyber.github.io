@@ -1,5 +1,11 @@
 # Summary
 
+Additional helpful links!
+
+* https://www.recordedfuture.com/open-source-intelligence-definition/
+* 10 Minute OSINT Tips: https://www.youtube.com/playlist?list=PL423I_gHbWUUOs09899rex4t2l5py9YIk
+* More available tools: https://inventory.rawsec.ml/tools.html#title-tools-osint
+
 * [OSINT](README.md)
   * [Our Target](our-target.md)
 * [Passive Recon](passive-recon.md)
