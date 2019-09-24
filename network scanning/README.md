@@ -123,7 +123,7 @@ To start the database, run`service postgresql start`. It should exit cleanly.
 
 ![](/assets/start pql.png)
 
-Then we need to create and initialize the database with `msfdb init.`![](/assets/init_db.png)
+Then we need to create and initialize the database with `msfdb init.`![](\assets\init_db.png)
 
 And finally start the Metasploit console by entering `msfconsole`
 
