@@ -7,7 +7,7 @@
   * [Semi-Passive Recon](osint/semi-passive-recon.md)
   * [Active Recon](osint/active-recon.md)
 
-* [Network Scanning & Enumeration](osint/README.md)
+* [Network Scanning & Enumeration](network scanning/README.md)
   * [Passive Recon](osint/passive-recon.md)
   * [Semi-Passive Recon](osint/semi-passive-recon.md)
   * [Active Recon](osint/active-recon.md)
