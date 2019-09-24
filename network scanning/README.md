@@ -28,9 +28,6 @@ Nmap - [https://www.stationx.net/nmap-cheat-sheet/](https://www.stationx.net/nma
     * [Xprobe2](chapter1/tools/xprobe2.md)
     * [Masscan](chapter1/tools/masscan.md)
       * [Service Detection](chapter1/tools/masscan/service-detection.md)
-* [Manual Tools](masscan.md)
-  * [Netcat](masscan/netcat.md)
-  * [Port Scanning with Netcat](masscan/port-scanning-with-netcat.md)
 
 
 
