@@ -8,8 +8,8 @@
   * [Active Recon](osint/active-recon.md)
 
 * [Network Scanning & Enumeration](https://github.com/queencitycyber/queencitycyber.github.io/blob/master/network%20scanning/README.md)
-  * [Passive Scanning](network scanning/passive-scanning.md)
-  * [Active Recon](network scanning/active-scanning.md)
+  * [Passive Scanning](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/network%20scanning#passive-scanningd)
+  * [Active Recon](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/network%20scanning#active-scanning)
 
 * [tba](osint/README.md)
   * [Passive Recon](osint/passive-recon.md)
