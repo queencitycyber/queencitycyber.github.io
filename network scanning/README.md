@@ -109,9 +109,9 @@ Full link here - https://www.offensive-security.com/metasploit-unleashed/
 
 ### The Metasploit File System
 
-![](/assets/metasploit-unleashed-metasploit-file-system-2.png)
+![](https://www.offensive-security.com/wp-content/uploads/2018/05/msfu-lib0-1.png)
 
-### Starting Metasploit 
+# Starting Metasploit 
 
 ## Getting msf running
 
