@@ -11,7 +11,6 @@ Nmap - [https://www.stationx.net/nmap-cheat-sheet/](https://www.stationx.net/nma
 
 # Summary
 
-* [Recap](recap.md)
 * [Introduction](README.md)
 * [Kali Linux](kali-linux.md)
 * [Metasploit](metasploit.md)
