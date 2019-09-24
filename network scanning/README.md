@@ -20,7 +20,7 @@ Nmap - [https://www.stationx.net/nmap-cheat-sheet/](https://www.stationx.net/nma
 * [Tools](chapter1.md)
   * [Passive Scanning](chapter1/passive-scanning.md)
     * [p0f](chapter1/active-scanning/nmap.md)
-  * [Active Scanning](chapter1/tools.md)
+  * Active Scanning
     * [Nmap](chapter1/tools/nmap.md)
       * [OS Detection](chapter1/tools/nmap/os-detection.md)
       * [Service Detection](chapter1/tools/nmap/service-detection.md)
