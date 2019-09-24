@@ -119,17 +119,15 @@ msf = Metasploit Framework
 
 The first thing we need to do to get up and running is start the  PostgreSQL database. This is the database that will store all our current working information and allow us to query the database to find different modules.
 
-To start the database, run`service postgresql start`. It should exit cleanly.
+To start the database, run `systemctl postgresql start`. It should exit cleanly.
 
-![](/assets/start pql.png)
 
-Then we need to create and initialize the database with `msfdb init.`![](\\assets\\init_db.png)
+Then we need to create and initialize the database with `msfdb init.`
 
 And finally start the Metasploit console by entering `msfconsole`
 
 Make sure you're connect with `> db_status`
 
-![](/assets/dbstatus.png)
 
 ## Basic Port Scanning in MSF
 
@@ -141,7 +139,7 @@ For example, inside the console, try running an Nmap scan or ping or dig trace o
 
 We can run any Nmap scan we would normally run. But instead we will run it with **db\_nmap** followed by any other arguments we want. The results of this scan will then be stored inside the database where we can the quickly look up the information.
 
-Run a Fast \(top 100 ports, remember?\) Nmap scan against your target. ![](/assets/db_nmap Fastscan.png)
+Run a Fast \(top 100 ports, remember?\) Nmap scan against your target. 
 
 Let's run another scan to get some more information. We can scan any number of ports we want with Nmap - Nmap makes it easy to scan the Top X number of ports with the `- -top-ports X`option.
 
