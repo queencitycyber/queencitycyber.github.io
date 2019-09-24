@@ -18,7 +18,7 @@ Nmap - [https://www.stationx.net/nmap-cheat-sheet/](https://www.stationx.net/nma
   * [Starting Metasploit ](metasploit/port-scanning-in-metasploit.md)
   * [Basic Port Scanning ](metasploit/basic-port-scanning.md)
 * [Tools](chapter1.md)
-  * [Passive Scanning](chapter1/active-scanning.md)
+  * [Passive Scanning](chapter1/passive-scanning.md)
     * [p0f](chapter1/active-scanning/nmap.md)
   * [Active Scanning](chapter1/tools.md)
     * [Nmap](chapter1/tools/nmap.md)
