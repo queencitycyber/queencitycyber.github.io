@@ -65,3 +65,90 @@ What we have left
 
 ---
 
+# What Kali Linux is
+
+* "Kali Linux is a Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing" - Offensive Security \(maintainers of Kali\). That's it. It's a flavor of Linux, based on Debian, that has hundreds of pre-installed tools.
+
+# What Kali isn't
+
+* Kali is not a
+  * "hacking tool"
+  * "penetration test"
+
+# Features of Kali Linux
+
+* Over 600 tools pre-installed. This makes it extremely convenient and easy to get things going. 
+  * For a full listing of tools, [click here](https://tools.kali.org/tools-listing)
+* Free and open source.
+  * Git tree can be found [here](http://git.kali.org/gitweb/)
+* Highly customization. If we have time during the course, we will explore customizing the kernel. 
+  * More information can be found [here](https://docs.kali.org/category/development)
+* Metasploit Framework is installed and works out of the box. This is where we will be doing most of our work from.
+
+
+
+---
+
+# Introduction to the Metasploit Framework
+
+### What is Metasploit?
+
+* Metasploit is penetration testing software provided by Rapid7. Mostly paid versions that come in several different varieties, namely Metasploit Pro, Metasploit Ultimate, and Metasploit Express. We will not be using these.
+
+### What is Metasploit Framework?
+
+* Metasploit Framework \(msf\) is the free and open source fork of Metasploit provided by Rapid7.
+* MSF is a platform that combines several different sets of tools and applications used for vulnerability analysis, exploit development, and security auditing into a modulated platform. 
+* It contains the built in architecture and tools to conduct vulnerability assessments and penetration tests, along with numerous other security related tasks.
+
+#### During this course we will mostly be following the Metasploit Unleashed course, a free ethical hacking course provided by Offensive Security.
+
+Full link here - https://www.offensive-security.com/metasploit-unleashed/
+
+### 
+
+### The Metasploit File System
+
+![](/assets/metasploit-unleashed-metasploit-file-system-2.png)
+
+### Starting Metasploit 
+
+## Getting msf running
+
+msf = Metasploit Framework
+
+The first thing we need to do to get up and running is start the  PostgreSQL database. This is the database that will store all our current working information and allow us to query the database to find different modules.
+
+To start the database, run`service postgresql start`. It should exit cleanly.
+
+![](/assets/start pql.png)
+
+Then we need to create and initialize the database with `msfdb init.`![](/assets/init_db.png)
+
+And finally start the Metasploit console by entering `msfconsole`
+
+Make sure you're connect with `> db_status`
+
+![](/assets/dbstatus.png)
+
+## Basic Port Scanning in MSF
+
+Metasploit is nice because it keeps track of all our information in the database. Then we can query that database to quickly enumerate hosts, listening services, extra info, and even manually add info if we want.
+
+One of the nicest things about being inside the msfconsole is that you can still run just about any other \*nix command.
+
+For example, inside the console, try running an Nmap scan or ping or dig trace on a domain. All these tools  work inside the console.
+
+We can run any Nmap scan we would normally run. But instead we will run it with **db\_nmap** followed by any other arguments we want. The results of this scan will then be stored inside the database where we can the quickly look up the information.
+
+Run a Fast \(top 100 ports, remember?\) Nmap scan against your target. ![](/assets/db_nmap Fastscan.png)
+
+Let's run another scan to get some more information. We can scan any number of ports we want with Nmap - Nmap makes it easy to scan the Top X number of ports with the `- -top-ports X`option.
+
+Run a scan against the top 300 ports with service detection.  
+Remember, if you want to go faster, skip pinging the host and resolving hostnames :\)
+
+Let's find some other port scanning capabilities using the msfconsole's `search` function
+
+
+
