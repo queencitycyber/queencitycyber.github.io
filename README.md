@@ -15,8 +15,9 @@
   * [Introduction To The Metasploit Framework](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/vulnerability%20scanning#review-of-metasploit-framework-and-msfconsole)
   * [Scenario: Exploiting Windows XP](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/vulnerability%20scanning#exploiting-windows-xp-using-metasploit-framework)
 
-  * [Network Traffic Analysis](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/traffic%20analysis#a-recap-on-what-weve-done-and-where-we-are)
-  * [Introduction To Wireshark](https://github.com/queencitycyber/queencitycyber.github.io/blob/master/traffic%20analysis/wireshark.md#introduction-to-wireshark)
+
+* [Network Traffic Analysis](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/traffic%20analysis#a-recap-on-what-weve-done-and-where-we-are)
+* [Introduction To Wireshark](https://github.com/queencitycyber/queencitycyber.github.io/blob/master/traffic%20analysis/wireshark.md#introduction-to-wireshark)
   
 
 
