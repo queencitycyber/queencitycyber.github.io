@@ -17,7 +17,7 @@
 
 
 * [Network Traffic Analysis](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/traffic%20analysis#a-recap-on-what-weve-done-and-where-we-are)
-    * [Introduction To Wireshark](https://github.com/queencitycyber/queencitycyber.github.io/blob/master/traffic%20analysis/wireshark.md#introduction-to-wireshark)
+    * [Introduction To Wireshark](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/traffic%20analysis#introduction-to-wireshark)
   
 
 
