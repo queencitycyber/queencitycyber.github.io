@@ -35,11 +35,11 @@ Source: https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
 
 Source: https://www.acunetix.com/websitesecurity/cross-site-scripting/
 
-**Scenario A: **A web application might have a forum/discussion board and asks for your name: what if I enter HTML characters into the name form?
+**Scenario A:** A web application might have a forum/discussion board and asks for your name: what if I enter HTML characters into the name form?
 
 Lots!
 
-Introduction to Cross-Site Scripting \(XSS\): 
+### Introduction to Cross-Site Scripting \(XSS\): 
 
 * 2 main types: Reflected and Stored. We will cover reflected.
 
@@ -73,7 +73,7 @@ With a reflected XSS, an attacker could:
 2. Execute seperate HTTP requests to malicious websites
 3. Many, many more malicious things.
 
-**Recap: **XSS occurs when a web site/application accepts input supplied by you \(the user\) \*without\* properly handling the inputted data. Whenever you see a website \(including the URL!\) accepting input from you \(the user\), there's a potential for XSS exploitation.
+**Recap:** XSS occurs when a web site/application accepts input supplied by you \(the user\) \*without\* properly handling the inputted data. Whenever you see a website \(including the URL!\) accepting input from you \(the user\), there's a potential for XSS exploitation.
 
 ---
 
@@ -82,7 +82,7 @@ With a reflected XSS, an attacker could:
 Source: https://www.owasp.org/index.php/SQL\_Injection  
 Source: https://www.acunetix.com/websitesecurity/sql-injection2/
 
-Introduction to SQL Injection \(SQLi\)
+### Introduction to SQL Injection \(SQLi\)
 
 * Another injection vulnerability!
 
@@ -151,11 +151,11 @@ With a SQLi vulnerability, an attacker could
 
 # Directory Traversal (Path Traversal)
 
-Source: https://www.owasp.org/index.php/Path\_Traversal  
-Source: https://www.owasp.org/index.php/Testing\_Directory\_traversal/file\_include\_\(OTG-AUTHZ-001\)  
+Source: https://www.owasp.org/index.php/Path_Traversal 
+ 
 
 
-Introduction to Directory or Path Traversal 
+### Introduction to Directory or Path Traversal 
 
 * ANOTHER injection vulnerability \(noticing a pattern? :\) \)
 
