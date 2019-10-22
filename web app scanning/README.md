@@ -31,7 +31,7 @@ Of course, only test on things you own or have permission to! :\)
 
 # Cross Site Scripting (XSS)
 
-Source: https://www.owasp.org/index.php/Cross-site_Scripting_%28XSS
+Source: https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
 
 Source: https://www.acunetix.com/websitesecurity/cross-site-scripting/
 
