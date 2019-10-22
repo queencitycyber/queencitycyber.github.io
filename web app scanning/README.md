@@ -145,7 +145,7 @@ With a SQLi vulnerability, an attacker could
 3. DROP entire tables or columns from a database
 4. DELETE entire databases
 
-**Recap: **SQLi occurs when a web site/application accepts input supplied by you \(the user\) \*without\* properly handling the inputted data. The inputted data is then transformed into a SQL query, executed by a database, and results returned back to you!
+**Recap:** SQLi occurs when a web site/application accepts input supplied by you \(the user\) \*without\* properly handling the inputted data. The inputted data is then transformed into a SQL query, executed by a database, and results returned back to you!
 
 ---
 
@@ -184,7 +184,7 @@ Note: In the above scenario, the vulnerable web application would need to have t
 
 1. http://example.com/index.php?file=http://www.owasp.org/malicioustxt
 
-**Recap: **A directory/path traversal vulnerability occurs when a web site/application accepts input supplied by you \(the user\) \*without\* properly handling the inputted data. 
+**Recap:** A directory/path traversal vulnerability occurs when a web site/application accepts input supplied by you \(the user\) \*without\* properly handling the inputted data. 
 
 
 
