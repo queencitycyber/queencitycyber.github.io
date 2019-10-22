@@ -19,6 +19,9 @@
 * [Network Traffic Analysis](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/traffic%20analysis#a-recap-on-what-weve-done-and-where-we-are)
     * [Introduction To Wireshark](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/traffic%20analysis#introduction-to-wireshark)
   
-
+* [Web Application Scanning](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/web%20app%20scanning)
+    * [Cross Site Scripting (XSS)](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/web%20app%20scanning#cross-site-scripting-xss)
+    * [SQL Injection (SQLi)](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/web%20app%20scanning#sql-injection-sqli)
+    * [Directory Traversal](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/web%20app%20scanning#directory-traversal-path-traversal)
 
 
