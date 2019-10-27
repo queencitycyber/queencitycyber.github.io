@@ -8,7 +8,7 @@
   * [Active Recon](osint/active-recon.md)
 
 * [Network Scanning & Enumeration](network_scanning/README.md)
-  * [Passive Scanning](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/network%20scanning#passive-scanning)
+  * [Passive Scanning](network_scanning/network%20scanning#passive-scanning)
   * [Active Scanning](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/network%20scanning#active-scanning)
 
 * [Vulnerability Scanning](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/vulnerability%20scanning#a-recap-on-what-weve-done-and-where-we-are)

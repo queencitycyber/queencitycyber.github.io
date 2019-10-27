@@ -2,9 +2,9 @@
 
 Additional helpful links!
 
-* https://www.recordedfuture.com/open-source-intelligence-definition/
-* 10 Minute OSINT Tips: https://www.youtube.com/playlist?list=PL423I_gHbWUUOs09899rex4t2l5py9YIk
-* More available tools: https://inventory.rawsec.ml/tools.html#title-tools-osint
+* [Open Source Intelligence Definition:](https://www.recordedfuture.com/open-source-intelligence-definition/)
+* [10 Minute OSINT Tips:](https://www.youtube.com/playlist?list=PL423I_gHbWUUOs09899rex4t2l5py9YIk)
+* [Numerous OSINT Tools:](https://inventory.rawsec.ml/tools.html#title-tools-osint)
 
 * [OSINT](README.md)
   * [Our Target](our-target.md)
