@@ -173,7 +173,7 @@ Note: In the above scenario, the vulnerable web application would need to have t
 **Recap:** A directory/path traversal vulnerability occurs when a web site/application accepts input supplied by you \(the user\) \*without\* properly handling the inputted data. 
 
 
-** Wrapping Up
+**Wrapping Up
 
 
 As we saw with XSS, SQLi, and Path Traversal vulnerabilities, as very common and ripe place for these to occur is from user-supplied input!
