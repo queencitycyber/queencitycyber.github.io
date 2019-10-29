@@ -46,7 +46,7 @@ print "</html>"
 
 **Description:** When a user visits the web page above, the server is sending the HTML to the victims browser. The victims browser interprets the HTML and displays the web page. This web page is presented and the browser executes the `database.lastestComment` and displays the last made comment.
 
-**Attack: **What happens if we make a comment using Javascript instead of normal text?  
+**Attack:** What happens if we make a comment using Javascript instead of normal text?  
 A commonly used example: `<script>DoSomethingEvil();</script>`
 
 So when a user visits the web page, instead of the last comment being presented, the evil script is executing inside the browser.
