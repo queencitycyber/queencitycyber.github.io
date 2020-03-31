@@ -8,7 +8,7 @@ Additional helpful links!
 
 * [OSINT](README.md)
   * [Our Target](our-target.md)
-* [Passive Recon](passive-recon.md)
+* [Passive Recon](Introduction.md)
   * [WHOIS](passive-recon/whois.md)
   * [Google Cache](passive-recon/google-cache.md)
   * [TinyEye Reverse Image Search](passive-recon/tinyeye-reverse-image-search.md)
