@@ -17,7 +17,7 @@
 
 
 * [Network Traffic Analysis](traffic%20analysis/README.md)
-    * [Introduction To Wireshark](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/traffic%20analysis#introduction-to-wireshark)
+
   
 * [Web Application Scanning](web%20app%20scanning/README.md)
     * [Cross Site Scripting (XSS)](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/web%20app%20scanning#cross-site-scripting-xss)
