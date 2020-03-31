@@ -21,6 +21,6 @@
   
 * [Web Application Scanning](web%20app%20scanning/README.md)
     * [Cross Site Scripting (XSS)](web%20app%20scanning/xss.md)
-    * [SQL Injection (SQLi)](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/web%20app%20scanning#sql-injection-sqli)
-    * [Directory Traversal](https://github.com/queencitycyber/queencitycyber.github.io/tree/master/web%20app%20scanning#directory-traversal-path-traversal)
+    * [SQL Injection (SQLi)](web%20app%20scanning/sqli.md)
+    * [Directory Traversal](web%20app%20scanning/directory-traversal.md)
 
