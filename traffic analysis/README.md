@@ -31,11 +31,9 @@ What we have left
 
 2. \[ \] Exploitation 
 
-3. \[ \] FW/IDS/IPS Evasion
+3. \[ \] Post-Exploitation/Lateral Movement
 
-4. \[ \] Post-Exploitation/Lateral Movement
-
-5. \[ \] Report Writing
+4. \[ \] Report Writing
 
 
 
