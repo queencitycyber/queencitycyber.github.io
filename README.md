@@ -8,7 +8,7 @@
 * [Network Scanning & Enumeration](network_scanning/README.md)
 
 
-* [Vulnerability Scanning](vulnerability_analysis/README.md)
+* [Vulnerability Scanning](vulnerability_scanning/README.md)
 
 
 * [Network Traffic Analysis](traffic_analysis/README.md)
